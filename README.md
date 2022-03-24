@@ -1,5 +1,5 @@
 # Event-App
-<p align="center"> Sistema Web Simples para Gerenciamento de Eventos e seus convidados </p>
+<p align="center"> Sistema Web Simples para Gerenciamento de Eventos e seus convidados. </p>
 <p align="center">
   <a href="#sobre">Sobre</a>
   <a href="#sobre">RoadMap</a>
