@@ -12,3 +12,8 @@
 </br>
 
 <h4 align="center"> Projeto README - Em construção...</h4>
+
+## Telas 
+<img src="https://github.com/k3n3dfelix/Event-App/blob/main/screens/1-cadastro-eventos.JPG" />
+<img src="https://github.com/k3n3dfelix/Event-App/blob/main/screens/2-listagem-eventos.JPG" />
+<img src="https://github.com/k3n3dfelix/Event-App/blob/main/screens/3-detalhes-eventos.JPG" />
